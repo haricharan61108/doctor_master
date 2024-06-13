@@ -1,0 +1,1 @@
+#installed nodemon,express body-parser bcrypt cors dotenv jsonwebtoken,pg for database connection
